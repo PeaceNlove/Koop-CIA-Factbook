@@ -1,0 +1,1 @@
+exports.factbookdb = "postgres://postgres:postgres@localhost/koop";
